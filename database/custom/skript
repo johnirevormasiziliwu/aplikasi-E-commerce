@@ -1,0 +1,5 @@
+insert into users (nama,username,password,role) values
+('Johni Revormasi Ziliwu','Johni','$2y$10$/PBMfdIeek1Mw28C.e9Ml.U5lA3MASFJKMQ2RG2Wvqiv15jefMLGi','admin');
+
+insert into users (name,username,password,is_admin) values
+('Admin','admin','$2y$10$m8azeTw8PaKFpRtekqTty.5u7UuGNJin5XQQYRKjVg9jcnVHPmozC','superadmin');
